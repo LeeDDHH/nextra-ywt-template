@@ -1,6 +1,6 @@
 # nextra-ywt
 
-<!-- [![](.github/screenshot.png)](https://nextra-docs-template.vercel.app) -->
+[![](.github/screenshot.png)]()
 
 ## 参考リポジトリ
 
