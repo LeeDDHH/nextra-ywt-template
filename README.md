@@ -6,6 +6,34 @@
 
 [shuding/nextra-docs-template: Nextra docs template](https://github.com/shuding/nextra-docs-template)
 
+## Nextra リンク
+
+### 基本的なガイド
+
+- [ファイル管理](https://nextra.site/docs/guide/organize-files)
+- [マークダウン](https://nextra.site/docs/guide/markdown)
+- [シンタックスハイライト](https://nextra.site/docs/guide/syntax-highlighting)
+- Next.js 機能
+  - [SSG](https://nextra.site/docs/guide/ssg)
+  - [i18n](https://nextra.site/docs/guide/i18n)
+  - [Image](https://nextra.site/docs/guide/image)
+  - [Link](https://nextra.site/docs/guide/link)
+- [LaTeX](https://nextra.site/docs/guide/latex)
+- [テーブル表示](https://nextra.site/docs/guide/advanced/table)
+
+### Docs テーマ
+
+- テーマ構成
+  - [Theme Configuration – Nextra](https://nextra.site/docs/docs-theme/theme-configuration)
+- ページ構成
+  - [Page Configuration – Nextra](https://nextra.site/docs/docs-theme/page-configuration)
+- ビルトイン機能
+  - [Built-ins – Nextra](https://nextra.site/docs/docs-theme/built-ins)
+
+### カスタムテーマ
+
+- [カスタムテーマ](https://nextra.site/docs/custom-theme)
+
 ## 動作環境
 
 |    名前    | バージョン |
