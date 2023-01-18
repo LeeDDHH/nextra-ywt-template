@@ -1,4 +1,4 @@
-# nextra-yat
+# nextra-ywt
 
 <!-- [![](.github/screenshot.png)](https://nextra-docs-template.vercel.app) -->
 
