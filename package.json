@@ -1,0 +1,31 @@
+{
+  "name": "nextra-ywt",
+  "version": "0.0.1",
+  "description": "Nextra YWT template",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeDDHH/nextra-ywt.git"
+  },
+  "author": "DongHeon Lee <niche3600@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeeDDHH/nextra-ywt/issues"
+  },
+  "homepage": "https://github.com/LeeDDHH/nextra-ywt#readme",
+  "dependencies": {
+    "next": "^13.1.2",
+    "nextra": "2.2.4",
+    "nextra-theme-docs": "2.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
