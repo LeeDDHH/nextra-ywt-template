@@ -1,6 +1,6 @@
 # nextra-ywt
 
-[![](.github/screenshot.png)]()
+![ホーム](.github/screenshot.png)
 
 ## 参考リポジトリ
 
