@@ -1,4 +1,4 @@
-# nextra-ywt
+# nextra-ywt-template
 
 ![ホーム](.github/screenshot.png)
 

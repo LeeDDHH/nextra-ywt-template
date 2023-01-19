@@ -1,5 +1,5 @@
 {
-  "name": "nextra-ywt",
+  "name": "nextra-ywt-template",
   "version": "0.0.1",
   "description": "Nextra YWT template",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeeDDHH/nextra-ywt.git"
+    "url": "git+https://github.com/LeeDDHH/nextra-ywt-template.git"
   },
   "author": "DongHeon Lee <niche3600@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LeeDDHH/nextra-ywt/issues"
+    "url": "https://github.com/LeeDDHH/nextra-ywt-template/issues"
   },
-  "homepage": "https://github.com/LeeDDHH/nextra-ywt#readme",
+  "homepage": "https://github.com/LeeDDHH/nextra-ywt-template#readme",
   "dependencies": {
     "next": "^13.1.2",
     "nextra": "2.2.4",

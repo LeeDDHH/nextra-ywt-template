@@ -5,9 +5,9 @@ import { DocsThemeConfig, useConfig } from "nextra-theme-docs";
 const config: DocsThemeConfig = {
   logo: <span>My YWT</span>,
   project: {
-    link: "https://github.com/LeeDDHH/nextra-ywt",
+    link: "https://github.com/LeeDDHH/nextra-ywt-template",
   },
-  docsRepositoryBase: "https://github.com/LeeDDHH/nextra-ywt",
+  docsRepositoryBase: "https://github.com/LeeDDHH/nextra-ywt-template",
   head: () => {
     const { asPath } = useRouter();
     const { frontMatter } = useConfig();
@@ -19,7 +19,7 @@ const config: DocsThemeConfig = {
         <meta name="apple-mobile-web-app-title" content="Nextra YWT" />
         <meta name="twitter:card" content="summary_large_image" />
         {/* <meta name="twitter:site" content="" /> */}
-        <meta property="og:url" content={`https://my-app.com${asPath}`} />
+        {/* <meta property="og:url" content={`https://my-app.com${asPath}`} /> */}
         <meta property="og:title" content={frontMatter.title || "Nextra YWT"} />
         <meta
           property="og:description"
