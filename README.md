@@ -53,3 +53,10 @@
 - `yarn dev`
   - 開発サーバーの立ち上げ
   - 基本的に `localhost:3000` になる
+
+## 必要であれば、各自で修正すること
+
+- `theme.config.tsx`
+  - `project` 、 `docsRepositoryBase` 、 `head` を修正する
+- `_meta.json`
+  - `contact.href` に SNS のアカウント名を追加する
