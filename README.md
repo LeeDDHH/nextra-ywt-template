@@ -6,6 +6,10 @@
 
 [shuding/nextra-docs-template: Nextra docs template](https://github.com/shuding/nextra-docs-template)
 
+## Vercel にデプロイ
+
+[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2FLeeDDHH%2Fnextra-ywt-template&showOptionalTeamCreation=false)
+
 ## Nextra リンク
 
 ### 基本的なガイド
